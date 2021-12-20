@@ -2,6 +2,8 @@
 
 ## Overview
 
+See: [firebase-js-sdk issue #5825](https://github.com/firebase/firebase-js-sdk/issues/5825)
+
 This repository demonstrates a bug with `@firebase/rules-unit-testing` and/or
 `firebase-js-sdk/firestore` (incompatibility between the two).
 
